@@ -3,8 +3,8 @@ title: "Team"
 layout: splash
 permalink: /team/
 date: 2016-03-23T11:48:41-04:00
-header: 
-  - excerpt: 'Meet our team'
+header:
+  caption: "Meet our team"
 feature_row:
   - image_path: assets/images/isabell_bludau.jpeg
     alt: "placeholder image 1"
