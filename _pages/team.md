@@ -4,7 +4,7 @@ layout: splash
 permalink: /team/
 date: 2016-03-23T11:48:41-04:00
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/isabell_bludau.jpeg
     alt: "placeholder image 1"
     title: "Isabell Bludau"
     excerpt: "Group Leader."
