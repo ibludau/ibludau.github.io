@@ -1,6 +1,4 @@
 main:
-  - title: "Welcome"
-    url: /splash-page/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
