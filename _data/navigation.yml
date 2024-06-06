@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Home"
+    url: /
+  - title: "Team"
+    url: /about/
+  - title: "Research"
+    url: /about/
+  - title: "Publications"
+    url: /about/
+  - title: "Teaching"
+    url: /about/
+  - title: "Join us"
+    url: /about/
+  - title: "Join us"
+    url: /about/
+  - title: "Contact"
     url: /about/
