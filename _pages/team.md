@@ -13,8 +13,8 @@ feature_row:
     title: "Isabell Bludau"
     excerpt: "Group Leader"
   - image_path: /assets/images/bio-photo.jpg
-    alt: "Nhu"
-    title: "Nhu"
+    alt: "Nhu Nguyen"
+    title: "Nhu Nguyen"
     excerpt: "PhD Student"
 ---
 
