@@ -7,11 +7,15 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
+intro: 
+  - excerpt: 'Our research goal is to improve our understanding of molecular and functional diversification.'
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
     alt: "Alternative promotor usage in cancer"
     title: "Alternative promotor usage in cancer"
     excerpt: "Proteogenomics analysis to investigate alternative promotor usage in IDH-mutant gliomas"
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row type="left" %}
