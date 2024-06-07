@@ -24,7 +24,7 @@ feature_row:
       <div>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5191.579672564542!2d8.668085077051334!3d49.412879971412785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4797c12edb72c751%3A0xf8023778127f9cee!2sMarsilius-Arkaden!5e0!3m2!1sde!2sde!4v1717750780209!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
-    url: "https://maps.google.com"
+    url: "https://maps.app.goo.gl/56wXD5p6j9Ljmzw7A"
     btn_label: "View on Google Maps"
     btn_class: "btn--primary"
 ---
