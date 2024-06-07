@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Email Us"
+    - label: "Email - Isabell Bludau"
       url: "mailto:isabell.bludau@med.uni-heidelberg.de"
 feature_row:
   - excerpt: "Dr. Isabell Bludau<br>
