@@ -8,11 +8,14 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/proteinfold.jpeg
 feature_row:
-  - title: "Deciphering proteoform diversity in brain cancers"
+  - image: /assets/images/unsplash-image-1.jpg
+    title: "Deciphering proteoform diversity in brain cancers"
     excerpt: "Text"
-  - title: "Previous work"
+  - image: /assets/images/unsplash-image-1.jpg
+    title: "Previous work"
     excerpt: "Systematic detection of functional proteoform groups from bottom-up proteomic datasets"
-  - title: "Current projects"
+  - image: /assets/images/unsplash-image-1.jpg
+    title: "Current projects"
     excerpt: "Proteogenomic investigation of alternative promotor usage in IDH-mutant gliomas"
 feature_row2:
   - title: "Spatial multi-omics"
