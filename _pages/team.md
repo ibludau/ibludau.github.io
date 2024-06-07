@@ -9,11 +9,11 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
 feature_row:
   - image_path: assets/images/isabell_bludau.jpeg
-    alt: "placeholder image 1"
+    alt: "Isabell Bludau"
     title: "Isabell Bludau"
     excerpt: "Group Leader"
   - image_path: /assets/images/bio-photo.jpg
-    alt: "placeholder image 2"
+    alt: "Nhu"
     title: "Nhu"
     excerpt: "PhD Student"
 ---
