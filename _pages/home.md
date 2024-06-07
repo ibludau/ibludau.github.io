@@ -8,20 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 excerpt: "Compulational Neuropathology"
+feature_row:
+  - title: "Isabell Bludau"
+    excerpt: "Group Leader"
 ---
 
-# Welcome to Bludau Lab
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada.
-
-{% include feature_row id="intro" type="center" %}
-
-## Latest Publications
-- [Publication 1](#)
-- [Publication 2](#)
-- [Publication 3](#)
-
-## Our Projects
-- [Project 1](#)
-- [Project 2](#)
-- [Project 3](#)
+{% include feature_row %}
