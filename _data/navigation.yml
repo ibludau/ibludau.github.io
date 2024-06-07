@@ -5,8 +5,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Teaching"
-    url: /about/
+#  - title: "Teaching"
+#    url: /about/
   - title: "Join us"
     url: /about/
   - title: "Contact"
