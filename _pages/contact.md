@@ -12,14 +12,14 @@ intro:
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
     alt: "Contact"
-    excerpt: "Dr. Isabell Bludau
-              Department of Neuropathology
-              Heidelberg University Hospital
-              ​
-              Marsilius-Arkaden
-              Im Neuenheimer Feld 130.3
-              69120 Heidelberg
-              ​
+    excerpt: "Dr. Isabell Bludau<br>
+              Department of Neuropathology<br>
+              Heidelberg University Hospital<br>
+              ​<br>
+              Marsilius-Arkaden<br>
+              Im Neuenheimer Feld 130.3<br>
+              69120 Heidelberg<br>
+              ​<br>
               Email: isabell.bludau@med.uni-heidelberg.de"
 ---
 
