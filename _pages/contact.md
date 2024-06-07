@@ -7,11 +7,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-intro: 
-  - excerpt: 'Our research goal is to improve our understanding of molecular and functional diversification.'
+  actions:
+    - label: "Email Us"
+      url: "mailto:isabell.bludau@med.uni-heidelberg.de"
 feature_row:
-  - title: "Our Location"
-    excerpt: "Dr. Isabell Bludau<br>
+  - excerpt: "Dr. Isabell Bludau<br>
               Department of Neuropathology<br>
               Heidelberg University Hospital<br>
               ​<br>
