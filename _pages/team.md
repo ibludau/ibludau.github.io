@@ -11,11 +11,11 @@ feature_row:
   - image_path: assets/images/isabell_bludau.jpeg
     alt: "placeholder image 1"
     title: "Isabell Bludau"
-    excerpt: "Group Leader."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    excerpt: "Group Leader"
+  - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Nhu"
-    excerpt: "PhD Student."
+    excerpt: "PhD Student"
 ---
 
 {% include feature_row id="intro" type="center" %}
