@@ -18,6 +18,4 @@ feature_row:
     excerpt: "PhD Student"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
