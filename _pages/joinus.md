@@ -12,8 +12,8 @@ header:
       url: "mailto:isabell.bludau@med.uni-heidelberg.de"
 intro: 
   - excerpt: 'Interested to join our team? <br> <br>
-              Students are always welcome to join our team for a *semester project*, *Bachelor*, or *Master thesis*! Please send an [email](mailto:isabell.bludau@med.uni-heidelberg.de) to schedule a meeting to discuss potential projects. <br> <br>
-              If you want to join for a *PhD* or *Postdoc*, please include a letter of motivation, your CV, an academic transcript, and the names of two references to your [email](mailto:isabell.bludau@med.uni-heidelberg.de).'
+              Students are always welcome to join our team for a <span style="color: blue;">semester project</span>, <span style="color: blue;">Bachelor</span>, or <span style="color: blue;">Master thesis</span>! Please send an [email](mailto:isabell.bludau@med.uni-heidelberg.de) to schedule a meeting to discuss potential projects. <br> <br>
+              If you want to join for a <span style="color: blue;">PhD</span> or <span style="color: blue;">Postdoc</span>, please include a letter of motivation, your CV, an academic transcript, and the names of two references to your [email](mailto:isabell.bludau@med.uni-heidelberg.de).'
 ---
 
 {% include feature_row id="intro" type="center" %}
