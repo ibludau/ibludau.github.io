@@ -10,4 +10,8 @@ header:
   actions:
     - label: "Email - Isabell Bludau"
       url: "mailto:isabell.bludau@med.uni-heidelberg.de"
+intro: 
+  - excerpt: 'Interested to join our team for a PhD or Postdoc? Please send a letter of motivation, your CV, an academic transcript, and the names of two references via [email](mailto:isabell.bludau@med.uni-heidelberg.de).'
 ---
+
+{% include feature_row id="intro" type="center" %}
