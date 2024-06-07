@@ -8,6 +8,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "PubMed"
+    - label: "PubMed - Isabell Bludau"
       url: "https://pubmed.ncbi.nlm.nih.gov/?term=isabell%20bludau&sort=date"
 ---
