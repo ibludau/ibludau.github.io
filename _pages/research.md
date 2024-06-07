@@ -15,6 +15,6 @@ feature_row2:
     excerpt: "Multi-omics single-cell and spatial analysis."
 ---
 
-{% include feature_row style="center" %}
+{% include feature_row type="center" %}
 
-{% include feature_row index="feature_row2" style="center" %}
+{% include feature_row id="feature_row2" type="center" %}
